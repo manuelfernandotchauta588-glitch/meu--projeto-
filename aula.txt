@@ -1,0 +1,2 @@
+A minha primeira aula de Termux.
+Estou a aprender a programar passo a passo.
